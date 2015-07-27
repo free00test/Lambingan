@@ -1,0 +1,5 @@
+<settings>
+<category label="General">
+  <setting id="gauid" type="text" label="GA UID:" default="555"/>
+</category>
+</settings>
