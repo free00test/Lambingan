@@ -1,2 +1,1 @@
-v0.0.1
- - 6/1/2015 First try
+Version 1.0.0 - June 1, 2015 First try
