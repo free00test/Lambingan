@@ -597,7 +597,7 @@ def get_lambingantv_sources(url):
 
 def get_ga_details():
     gauid = ''
-    gaappid = 'UA-53643492-5'
+    gaappid = 'UA-65751650-1'
     xbmcsettings = xbmcaddon.Addon(id='plugin.video.lambingan')
     gauid = xbmcsettings.getSetting("gauid")
     #print "GA UID from settings file"
